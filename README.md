@@ -1,1 +1,2 @@
-# what-i-have-written-zombie-cush-2
+# zombie-crush-assets
+assests for crush the zombie game
